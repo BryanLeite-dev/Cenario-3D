@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Fisica/Queda da Escada.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
